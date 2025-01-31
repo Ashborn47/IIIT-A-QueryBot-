@@ -29,7 +29,7 @@ IIITA-Querybot is a tool designed for students to easily access information abou
 Follow these steps to run the IIITA-QueryBot project on your local machine:
 1. **Clone the repository** - Enter the following command in your command prompt to clone the repo:
 ```
-git clone https://github.com/Sohamslc5/IIITA-Querybot.git
+git clone https://github.com/Ashborn47/IIITA-Querybot.git
 ```
 2. **Navigate to the Project Directory:**
 ```
